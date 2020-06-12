@@ -1,0 +1,12 @@
+*.pyc
+/datasets
+/models
+/notebooks/datasets
+/notebooks/models
+__pycache__
+.DS_Store
+.__*
+.ipynb*
+.nfs*
+.*swp
+.idea
