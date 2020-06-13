@@ -9,7 +9,7 @@ git config filter.clean_ipynb.smudge cat
 git config filter.clean_ipynb.required true
 
 # Set up symlinks for the example notebooks
-for DIRNAME in datasets
+for DIRNAME in datasets checkpoints
 do
     mkdir -p ../${DIRNAME}
     ln -sfn ../${DIRNAME} .

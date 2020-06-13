@@ -1,8 +1,10 @@
 *.pyc
 /datasets
 /models
+/checkpoints
 /notebooks/datasets
 /notebooks/models
+/notebooks/checkpoints
 __pycache__
 .DS_Store
 .__*
