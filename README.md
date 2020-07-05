@@ -1,7 +1,7 @@
 David's Tips on How to Read Pytorch
 ===================================
 
-These five python notebooks are an introduction to core pytorch idioms.
+These five python notebooks are an introduction to core pytorch idioms.  Click below to run them on Colab.
 
   1. [Tensor arithmetic](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks/1-Pytorch-Introduction.ipynb): the notation for manipulating n-dimensional arrays of numbers on CPU or GPU.
   2. [Autograd](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//2-Pytorch-Autograd.ipynb): how to get derivatives of any scalar with respect to any tensor input.
