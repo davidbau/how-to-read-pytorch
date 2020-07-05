@@ -32,4 +32,4 @@ The examples should all work with python 3.5 or newer and pytorch 1.0 or newer.
 
 --- *David Bau, July 2020*
 
-![Figure thumbnails](how-to-read-pytorch.png)
+![Figure thumbnails](notebooks/how-to-read-pytorch.png)
