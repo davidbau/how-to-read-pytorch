@@ -28,9 +28,9 @@ Is is worth understanding the follwoing idioms that work together to make this p
 
 The key ideas are illustrated with small, runnable, tweakable examples, and there are links to other reference material and resources.
 
-All the notebooks can be run on Google Colab where some GPU compuation can be used for free, or they can be run on your own local Jupyter notebook server.
+All the notebooks can be run on Google Colab where GPUs can be used for free. Or they can be run on your own local Jupyter notebook server. The examples should all work with python 3.5 or newer and pytorch 1.0 or newer.
 
-The examples should all work with python 3.5 or newer and pytorch 1.0 or newer.
+[Start with the first notebook here!](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks/1-Pytorch-Introduction.ipynb)
 
 --- *David Bau, July 2020*
 
