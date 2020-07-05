@@ -1,6 +1,8 @@
 David's Tips on How to Read Pytorch
 ===================================
 
+![Figure thumbnails](notebooks/how-to-read-pytorch.png)
+
 These five python notebooks are an introduction to core pytorch idioms.  Click below to run them on Colab.
 
   1. [Tensor arithmetic](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks/1-Pytorch-Introduction.ipynb): the notation for manipulating n-dimensional arrays of numbers on CPU or GPU.
@@ -33,5 +35,3 @@ The examples should all work with python 3.5 or newer and pytorch 1.0 or newer.
 --- *David Bau, July 2020*
 
 ([David](https://people.csail.mit.edu/davidbau/home/) is a PhD student at MIT and former Google engineer. His research pursues transparency in deep networks.)
-
-![Figure thumbnails](notebooks/how-to-read-pytorch.png)
