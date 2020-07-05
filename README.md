@@ -24,7 +24,7 @@ It looks like it computes some function of `images` and `labels` without storing
 
 The berevity of the code is what makes pytorch code fun to write.  But it also reflects why pytorch can be so fast even though the python interpreter is so slow. Although the main python logic slogs along sequentially in a single very slow CPU thread, just a few python instructions can load a huge amount of work into the GPU.  That means the program can keep the GPU busy churning through massive numerical computations, for most part, without waiting for the python interpreter.
 
-Is is worth understanding the follwoing idioms that work together to make this possible. The five notebooks in this directory are a quick overview of these idioms.
+Is is worth understanding five idioms that work together to make this possible. The five notebooks in this directory are a quick overview of these idioms.
 
 The key ideas are illustrated with small, runnable, tweakable examples, and there are links to other reference material and resources.
 
