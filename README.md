@@ -32,4 +32,6 @@ The examples should all work with python 3.5 or newer and pytorch 1.0 or newer.
 
 --- *David Bau, July 2020*
 
+([David](https://people.csail.mit.edu/davidbau/home/) is a PhD student at MIT and former Google engineer. His research pursues transparency in deep networks.)
+
 ![Figure thumbnails](notebooks/how-to-read-pytorch.png)
