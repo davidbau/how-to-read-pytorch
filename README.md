@@ -1,5 +1,5 @@
-David's Guide for How to Read Pytorch
-=====================================
+David's Tips on How to Read Pytorch
+===================================
 
 These five python notebooks are an introduction to core pytorch idioms.
 
